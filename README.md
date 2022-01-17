@@ -2,5 +2,5 @@
 Website showcasing projects and information about myself.
 
 ## Technology used
-HTML, CSS, JAVA
+HTML, CSS, JAVASCRIPT
 AWS- S3, EC2, DNS
